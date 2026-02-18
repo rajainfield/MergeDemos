@@ -55,6 +55,7 @@ print(a);print(B);print(c)
 D = E = F = 'Rajarao Korlapu'
 print(D);print(E);print(F)
 print("Raja")
+print("Ravi")
 #Variables do not need to be declared with any particular type, and can even change type after they have been set.
 
 # Operators
