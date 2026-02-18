@@ -55,8 +55,6 @@ print(a);print(B);print(c)
 D = E = F = 'Rajarao Korlapu'
 print(D);print(E);print(F)
 
-print("Supp Code")
-
 #Variables do not need to be declared with any particular type, and can even change type after they have been set.
 
 # Operators
@@ -77,7 +75,6 @@ print("Check:", check)
 print("Logic:", logic)
 print("Implicit:", implicit, type(implicit))
 print("Explicit:", explicit, type(explicit))
-print("Raja")
 #We can create the space character in the output by "+" "," and "Python " and "is " and "awesome, without them the result would be "Python is awesome".
 #Mixing integers with string at output, avoid "+" use ","
 
