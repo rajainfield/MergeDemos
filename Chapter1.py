@@ -45,6 +45,7 @@ A variable name cannot be any of the Python keywords.'''
 x = 10        # int
 y = 3.5       # float
 z = "26"      # str
+u = 1j        # Complex
 
 #Python allows you to assign values to multiple variables in one line:
 
