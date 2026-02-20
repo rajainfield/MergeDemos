@@ -1,6 +1,3 @@
-'''Start'''
-
-
 '''Python has a simple syntax similar to the English language. And Case - Sensitive language.
 Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick
 
@@ -52,7 +49,7 @@ u = 2j        # Complex
 
 a, B, c = "Orange", "Banana", "Cherry"
 print(a);print(B);print(c)
-D = E = F = 'Rajarao Korlapu'
+D = E = F = 'Raja'
 print(D);print(E);print(F)
 
 #Variables do not need to be declared with any particular type, and can even change type after they have been set.
@@ -77,5 +74,4 @@ print("Implicit:", implicit, type(implicit))
 print("Explicit:", explicit, type(explicit))
 #We can create the space character in the output by "+" "," and "Python " and "is " and "awesome, without them the result would be "Python is awesome".
 #Mixing integers with string at output, avoid "+" use ","
-print("Rajarao-Final_Statement")
-'''---End---'''
+
